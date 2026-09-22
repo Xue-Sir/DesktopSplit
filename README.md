@@ -2,6 +2,8 @@
 
 DesktopSplit 是一个面向 Windows 10 的轻量屏幕分区工具。它不创建虚拟显示器，而是把当前显示器的工作区按比例划分成多个区域；窗口的中心点落在哪个区域，就认为它属于哪个“屏幕”。
 
+项目仓库：[github.com/Xue-Sir/DesktopSplit](https://github.com/Xue-Sir/DesktopSplit)
+
 当前首版实现：
 
 - 托盘驻留和开机自启动；
