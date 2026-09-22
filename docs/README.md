@@ -22,5 +22,6 @@
 发布说明：
 
 - `reference/distribution.md`
+- `reference/github-workflow.md`
 
 以后新增项目文档默认先放入上述分类目录，不再只保存到工具的私有目录。
